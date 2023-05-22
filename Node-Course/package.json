@@ -1,0 +1,14 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "express course",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pawan sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
